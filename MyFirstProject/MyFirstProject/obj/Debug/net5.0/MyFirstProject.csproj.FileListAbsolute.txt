@@ -1,0 +1,15 @@
+C:\Users\dougl\source\repos\MyFirstProject\MyFirstProject\bin\Debug\net5.0\MyFirstProject.exe
+C:\Users\dougl\source\repos\MyFirstProject\MyFirstProject\bin\Debug\net5.0\MyFirstProject.deps.json
+C:\Users\dougl\source\repos\MyFirstProject\MyFirstProject\bin\Debug\net5.0\MyFirstProject.runtimeconfig.json
+C:\Users\dougl\source\repos\MyFirstProject\MyFirstProject\bin\Debug\net5.0\MyFirstProject.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\MyFirstProject\MyFirstProject\bin\Debug\net5.0\MyFirstProject.dll
+C:\Users\dougl\source\repos\MyFirstProject\MyFirstProject\bin\Debug\net5.0\ref\MyFirstProject.dll
+C:\Users\dougl\source\repos\MyFirstProject\MyFirstProject\bin\Debug\net5.0\MyFirstProject.pdb
+C:\Users\dougl\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net5.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net5.0\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net5.0\MyFirstProject.AssemblyInfo.cs
+C:\Users\dougl\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net5.0\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net5.0\MyFirstProject.dll
+C:\Users\dougl\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net5.0\ref\MyFirstProject.dll
+C:\Users\dougl\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net5.0\MyFirstProject.pdb
+C:\Users\dougl\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net5.0\MyFirstProject.genruntimeconfig.cache
